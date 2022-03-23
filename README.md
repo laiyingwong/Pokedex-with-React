@@ -1,4 +1,4 @@
-# Pokedex-with-React
+# Pokedex with React
 
 Pokedex is a game that randomly assigns 8 pokemon cards into two hands of 4 cards each. It calculates the total experience of each hand of pokemon and determines the "winner", where the winning hand is the one with the higher total experience. Winner changes every time the page is refreshed.
 
