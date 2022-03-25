@@ -37,4 +37,4 @@ $ cd pokedex-with-react
 
 ## 👏 Credits
 
-This project is based on the React component and props tutorials of <a href="https://www.udemy.com/course/modern-react-bootcamp/">Modern React Bootcamp</a> by Colt Steele.
+This project is based on the React component and props tutorials of <a href="https://www.udemy.com/course/modern-react-bootcamp/">The Modern React Bootcamp</a> by Colt Steele.
